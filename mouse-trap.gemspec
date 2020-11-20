@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "mousetrap"
+  spec.name          = "mouse-trap-trap"
   spec.version       = "0.1.0"
   spec.authors       = ["bradybellini"]
   spec.email         = ["bbellini@pm.me"]

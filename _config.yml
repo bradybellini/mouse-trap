@@ -7,7 +7,7 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- mousetrap.gemspec
+- mouse-trap.gemspec
 - .jekyll-cache
 
 markdown: CommonMark
@@ -35,12 +35,12 @@ collections:
 encoding: utf-8
 lang: en-US
 permalink: pretty
-title: "Mouse Trap"
-description: "Mouse Trap is a minimal Jekyll theme based on a friendly mouse"
+title: "mouse-trap"
+description: "mouse-trap is a minimal Jekyll theme based on a friendly mouse"
 url: "https://bradybellini.com"
 author: "Brady Bellini"
 baseurl: ""
-repo: "https://github.com/bradybellini/mousetrap"
+repo: "https://github.com/bradybellini/mouse-trap"
 email: "bbellini@pm.me"
 favicon: "/assets/svg/cheese.svg"
 
